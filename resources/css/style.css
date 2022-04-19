@@ -26,6 +26,13 @@ color: white;
 .header--sub-header {
     color: gray;
     font-size: 21px;
-    
+
+
+}
+
+.footer--copyright {
+font-size: 21px;
+color: grey;
+text-align: right;
 
 }
