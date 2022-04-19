@@ -15,3 +15,17 @@ color: white;
     font-size: 16px;
     color: aquamarine;
 }
+
+.header--secondary {
+    font-weight: 300;
+    color: white;
+    font-size: 42px;
+
+}
+
+.header--sub-header {
+    color: gray;
+    font-size: 21px;
+    
+
+}
